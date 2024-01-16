@@ -60,3 +60,9 @@ create_meeting(
     "2024-01-12",
     "20:29",
 )
+
+## Output
+
+Upon successful execution, the script will print the generated Zoom meeting link. 
+
+Feel free to enhance and adapt this script according to your specific requirements. If you encounter any issues, refer to the [Zoom API documentation](https://marketplace.zoom.us/docs/api-reference/introduction) for further assistance.
