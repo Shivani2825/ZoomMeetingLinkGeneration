@@ -1,6 +1,6 @@
 # Zoom Meeting Link Generation
 
-This Python script utilizes the Zoom API to create a Zoom meeting. It retrieves an access token using OAuth, then sends a request to the Zoom API to create a meeting with specified details such as the topic, duration, start date, and start time.
+This Python script utilizes the Zoom API to create a Zoom meeting. It employs a server-to-server authentication method, accessing the Zoom API without OAuth tokens. The script sends a request to the Zoom API to create a meeting with specified details such as the topic, duration, start date, and start time.
 
 ## Prerequisites
 
